@@ -2,7 +2,7 @@
 # World 1-1
 Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over adjacent pyramids of blocks, per the below.
 
-![pyramids](https://cs50.harvard.edu/x/2020/psets/1/mario/more/pyramids.png)
+![pyramids](https://github.com/davidcheungo123/CS50-s-Introduction-to-Computer-Science/blob/main/pset1/mario/pyramids.png)
 
 Let’s recreate those pyramids in C, albeit in text, using hashes (```#```) for bricks, a la the below. Each hash is a bit taller than it is wide, so the pyramids themselves are also be taller than they are wide.
 
