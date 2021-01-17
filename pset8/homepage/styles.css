@@ -1,0 +1,30 @@
+
+table
+{
+    border: 1px solid black;
+}
+td
+{
+    border: 1px solid black;
+    padding: 5px;
+}
+.personal
+{
+    text-align: center;
+    color:blue;
+    font-size: small;
+}
+.link
+{
+    text-align:center;
+    color:blue;
+}
+body
+{
+    background-color:black;
+    color:white;
+}
+.color
+{
+    color:white;
+}
